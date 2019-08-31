@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrm_management_parent/hrm_management_interface/hrm_management_interface.iml" filepath="$PROJECT_DIR$/hrm_management_parent/hrm_management_interface/hrm_management_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_management_parent/hrm_management_service/hrm_management_service.iml" filepath="$PROJECT_DIR$/hrm_management_parent/hrm_management_service/hrm_management_service.iml" />
+    </modules>
+  </component>
+</project>

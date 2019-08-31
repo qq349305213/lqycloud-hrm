@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hrm_zuul" />
+        <module name="hrm_eureka" />
+        <module name="hrm_basic_util" />
+        <module name="hrm_management_service" />
+        <module name="hrm_management_interface" />
+        <module name="hrm_mybatisplus_gen" />
+        <module name="hrm_support_parent" />
+        <module name="hrm_sysmanage_interface" />
+        <module name="hrm_sysmanage_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hrm_config_server" target="1.5" />
+      <module name="hrm_management_interface" target="1.5" />
+      <module name="hrm_management_parent" target="1.5" />
+      <module name="hrm_management_service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
